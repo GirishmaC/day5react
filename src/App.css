@@ -1,0 +1,13 @@
+body{
+  background-color: antiquewhite;
+  background-repeat:no-repeat ;
+  width: 100%;
+  margin: 25px;
+}
+h2{
+  color: palevioletred;
+}
+
+h4{
+  color: rgb(135, 231, 111);
+}
